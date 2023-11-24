@@ -1,0 +1,2 @@
+# varriables
+a=1

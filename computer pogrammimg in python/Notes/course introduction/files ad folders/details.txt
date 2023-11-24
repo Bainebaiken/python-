@@ -1,0 +1,7 @@
+File extension    string of characters attached to a file name
+   file extension of python is , .py 
+File , is acommon storage unitof data in acomputer
+Folder , collection of files   
+        OR
+    Storage space of many files on acomputer 
+IDE ;intergeted development environment 
